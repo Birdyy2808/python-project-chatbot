@@ -4,14 +4,16 @@ This project automates chat interactions in a browser using PyAutoGUI, Pyperclip
 
 📌 Features
 
-✔ Automates text selection from a browser window
-✔ Copies chat history and sends it to OpenAI for response generation
-✔ Pastes AI-generated response back into the chat automatically
-✔ Customizable to work with any chat platform
+✅ Automates text selection from a browser window
+
+✅ Copies chat history and sends it to OpenAI for response generation
+
+✅ Pastes AI-generated response back into the chat automatically
+
+✅ Customizable to work with any chat platform
 
 🛠 Tech Stack
 
 Python 3.x 🐍
-PyAutoGUI
-Pyperclip
 
+PyAutoGUI
